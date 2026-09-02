@@ -74,3 +74,5 @@ Memory hook
 Concession = movement in exchange for movement.
 
 If I move and they don’t, I’m not negotiating. I’m giving.
+
+---
