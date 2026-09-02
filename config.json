@@ -1,15 +1,21 @@
 {
-  "siteName": "International Negotiations",
+  "siteName": "International Nego",
   "description": "A personal negotiation knowledge garden.",
+
   "showSidebar": true,
+
   "sidebar": {
     "orderBy": "path"
   },
+
   "showToc": true,
   "showBacklinks": true,
+
   "theme": {
     "theme": "superstack",
     "defaultMode": "light",
     "showModeSwitch": true
-  }
+  },
+
+  "customCss": "custom.css"
 }
