@@ -1,7 +1,3 @@
-
-
-
-
 ⸻
 
 title: The Negotiation Table
@@ -37,10 +33,10 @@ ASSERTION
 
 I need to know:
 
-* what I want
-* what my limits are
-* what my arguments are
-* what I am willing to defend
+- what I want
+- what my limits are
+- what my arguments are
+- what I am willing to defend
 
 COOPERATION
 
@@ -48,10 +44,10 @@ But I also need to remain someone the other side can work with.
 
 I need:
 
-* listening
-* patience
-* attention
-* flexibility
+- listening
+- patience
+- attention
+- flexibility
 
 Too much aggression can destroy the relationship.
 

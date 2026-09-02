@@ -1,9 +1,4 @@
-⸻
-
-title: International Negotiations
-description: A personal field guide to negotiation.
-
-INTERNATIONALNEGOTIATIONS
+INTERNATIONAL NEGOTIATIONS
 
 Stories, concepts and lessons I want to remember.
 
@@ -31,8 +26,11 @@ THE MAP
 The negotiations worth remembering.
 
 [[01-stories/cop21|COP21]]
+
 [[01-stories/japon|Japan]]
+
 [[01-stories/richelieux|Richelieu]]
+
 [[01-stories/negociation-table|The Negotiation Table]]
 
 ⸻
@@ -42,7 +40,9 @@ The negotiations worth remembering.
 Everything that happens before the conversation begins.
 
 [[02-before-the-table/preparation|Preparation]]
+
 [[02-before-the-table/who-what-how|Who / What / How]]
+
 [[02-before-the-table/reactive-devaluation|Reactive Devaluation]]
 
 ⸻
@@ -52,8 +52,11 @@ Everything that happens before the conversation begins.
 The mechanics of the negotiation itself.
 
 [[03-at-the-table/batna-zopa|BATNA & ZOPA]]
+
 [[03-at-the-table/anchoring|Anchoring]]
+
 [[03-at-the-table/concessions|Concessions]]
+
 [[03-at-the-table/Hardball-tactics|Hardball Tactics]]
 
 ⸻

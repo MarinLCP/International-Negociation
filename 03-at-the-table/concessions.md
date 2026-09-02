@@ -1,7 +1,3 @@
-
-
-
-
 ⸻
 
 title: Concessions
@@ -65,16 +61,16 @@ Don’t make the negotiation only about price.
 
 Possible variables:
 
-* price
-* timing
-* volume
-* payment terms
-* scope
-* guarantees
-* services
-* implementation
-* location
-* review clauses
+- price
+- timing
+- volume
+- payment terms
+- scope
+- guarantees
+- services
+- implementation
+- location
+- review clauses
 
 The more variables, the more possible trades.
 

@@ -1,7 +1,3 @@
-
-
-
-
 ⸻
 
 title: BATNA / RV / AV / ZOPA
@@ -81,12 +77,12 @@ Even when a mutually beneficial agreement exists, people can fail to reach it.
 
 Why?
 
-* distrust
-* bad communication
-* ego
-* internal disagreement
-* poor preparation
-* bad process
+- distrust
+- bad communication
+- ego
+- internal disagreement
+- poor preparation
+- bad process
 
 ⸻
 

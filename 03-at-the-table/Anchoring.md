@@ -1,7 +1,3 @@
-
-
-
-
 ⸻
 
 title: Anchoring
@@ -51,11 +47,11 @@ THE MOVE
 
 Before the negotiation, I should know:
 
-* my target
-* my justification
-* my evidence
-* my limits
-* their likely expectations
+- my target
+- my justification
+- my evidence
+- my limits
+- their likely expectations
 
 Then I can decide whether anchoring first makes sense.
 

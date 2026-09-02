@@ -1,7 +1,3 @@
-
-
-
-
 ⸻
 
 title: Hardball Tactics

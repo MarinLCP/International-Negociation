@@ -1,7 +1,3 @@
-
-
-
-
 ⸻
 
 title: Japan
@@ -71,14 +67,14 @@ Why do they want this?
 
 Behind a position there can be:
 
-* money
-* reputation
-* status
-* respect
-* recognition
-* relationships
-* precedent
-* face
+- money
+- reputation
+- status
+- respect
+- recognition
+- relationships
+- precedent
+- face
 
 ⸻
 

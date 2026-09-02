@@ -1,7 +1,3 @@
-
-
-
-
 ⸻
 
 title: WHO / WHAT / HOW
