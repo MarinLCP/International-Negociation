@@ -1,75 +1,130 @@
-Preparation
 
-The negotiation starts before the meeting
 
-The best negotiation tactic is often preparation.
 
-Before entering the room, I should know ten things.
+
+⸻
+
+title: Preparation
+description: The best negotiation tactic often happens before the meeting.
+
+PREPARATION
+
+The negotiation starts before the meeting.
+
+THE 10 QUESTIONS
+
+Before entering the room, I should be able to answer ten questions.
 
 ⸻
 
 WHO
 
-1. Negotiators & relationship
+01 — WHO IS NEGOTIATING?
 
-Who will be there? What is our existing relationship?
+Who will actually be in the room?
 
-2. Mandate
+What is my relationship with them?
 
-What am I actually allowed to agree to?
+02 — WHAT IS MY MANDATE?
 
-3. Stakeholders
+What am I allowed to accept?
 
-Who can influence the deal?
+What am I not allowed to accept?
+
+03 — WHO ELSE MATTERS?
+
+Who influences the decision?
+
+Who supports me?
+
+Who can block the deal?
+
+Who is the spoiler?
 
 ⸻
 
 WHAT
 
-4. Objectives & needs
+04 — WHAT DO WE WANT?
 
-What do I want? What do they want?
+My objectives.
 
-5. Solutions
+Their objectives.
 
-What different solutions could satisfy both sides?
+And, more importantly, their underlying needs.
 
-6. Arguments
+05 — WHAT SOLUTIONS EXIST?
+
+Don’t arrive with only one solution.
+
+Create options.
+
+06 — WHAT ARE MY ARGUMENTS?
 
 Why should they accept my proposal?
 
-7. Plan B / BATNA
+07 — WHAT IS MY PLAN B?
 
-What happens if there is no deal?
+What happens if we don’t reach an agreement?
+
+[[batna-zopa|BATNA]]
 
 ⸻
 
 HOW
 
-8. Organization
+08 — HOW WILL WE NEGOTIATE?
 
-Deadline, agenda, location, sequence and method.
+Deadline.
 
-9. Communication
+Agenda.
 
-What do I say? What do I ask? What information do I reveal?
+Location.
 
-10. Logistics
+Sequence.
 
-Where are we meeting? Who is present? What materials are needed?
+Process.
+
+09 — HOW WILL I COMMUNICATE?
+
+What do I say?
+
+What do I ask?
+
+What information do I reveal?
+
+10 — WHAT ABOUT LOGISTICS?
+
+Who needs to be there?
+
+What documents do we need?
+
+What practical details could disrupt the meeting?
 
 ⸻
 
-The rule
+THE PRINCIPLE
 
 Essential before obvious.
 
 The obvious preparation is preparing my arguments.
 
-The essential preparation is understanding the people, the interests, the mandate and the alternatives.
+The essential preparation is understanding:
+
+people + interests + mandate + alternatives
 
 ⸻
 
-Memory hook
+CONNECTED IDEAS
 
-WHO / WHAT / HOW = my pre-negotiation checklist.
+[[cop21|COP21]]
+
+[[who-what-how|WHO / WHAT / HOW]]
+
+[[batna-zopa|BATNA / ZOPA]]
+
+⸻
+
+REMEMBER
+
+Prepare the relationship before preparing the arguments.

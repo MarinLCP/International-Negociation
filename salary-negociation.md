@@ -1,75 +1,87 @@
-Salary Negotiation
-
-Negotiating salary is still negotiation
-
-The same principles apply.
-
-The biggest mistake is often negotiating after accepting.
-
-Once I have accepted the job, my leverage usually decreases.
-
 ⸻
 
-Before accepting
+title: Salary Negotiation
+description: The negotiation starts before accepting the job.
+
+SALARY NEGOTIATION
+
+Don’t negotiate after you’ve accepted.
+
+BEFORE ACCEPTING
+
+The same principles apply to salary negotiation.
 
 Prepare:
 
-* market benchmarks
-* my accomplishments
-* measurable results
-* responsibilities
-* documentation
-* alternatives
+- market benchmarks
+- accomplishments
+- measurable results
+- responsibilities
+- documentation
+- alternatives
 
-Don’t simply say:
+Don’t just say:
 
 “I deserve more.”
 
-Build a case.
+Build the case.
 
 ⸻
 
-Firm on what, flexible on how
-
-I can be firm about the outcome I want without being rigid about the way to reach it.
+FIRM ON WHAT. FLEXIBLE ON HOW.
 
 Maybe the company cannot increase the salary.
 
-There may be other variables:
+That doesn’t mean there is nothing else to negotiate.
 
-* bonus
-* title
-* responsibilities
-* remote work
-* vacation
-* training
-* review date
-* future salary adjustment
+Possible variables:
+
+- salary
+- bonus
+- title
+- responsibilities
+- remote work
+- vacation
+- training
+- review date
+- future salary adjustment
 
 ⸻
 
-Review clause
+REVIEW CLAUSE
 
-If something cannot be agreed today, it may be possible to agree on a future review.
+If something cannot be agreed today, move the negotiation into the future.
 
 For example:
 
 “If I reach X objectives within six months, we review the compensation.”
 
-This expands the time horizon of the negotiation.
+This creates another negotiation point.
 
 ⸻
 
-Relationship
+DON’T DESTROY THE RELATIONSHIP
 
-I don’t want to “win” a salary negotiation and start the job with a damaged relationship.
+I don’t want to “win” the salary negotiation and start the job with a damaged relationship.
 
 The objective is:
 
-better deal + good relationship.
+Better deal + good relationship.
 
 ⸻
 
-Memory hook
+CONNECTED IDEAS
+
+[[batna-zopa]]
+
+[[anchoring|Anchoring]]
+
+[[concessions|Concessions]]
+
+[[preparation|Preparation]]
+
+⸻
+
+REMEMBER
 
 Don’t negotiate only the number. Negotiate the package.

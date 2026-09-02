@@ -1,18 +1,29 @@
-Postmortem
 
-What happened?
 
-After an important negotiation, I should reconstruct the negotiation.
 
-Not just the result.
-
-The process.
 
 ⸻
 
-Four questions
+title: Postmortem
+description: Turn negotiation experience into learning.
 
-1. What helped, and why?
+POSTMORTEM
+
+The negotiation doesn’t end when everyone leaves.
+
+WHY?
+
+After a negotiation, the temptation is to look only at the result.
+
+Did we get the deal?
+
+But the result isn’t enough.
+
+I want to understand the process.
+
+⸻
+
+01 — WHAT HELPED?
 
 What created movement?
 
@@ -20,7 +31,11 @@ What strengthened the relationship?
 
 What argument worked?
 
-2. What didn’t help, and why?
+What decision was useful?
+
+⸻
+
+02 — WHAT DIDN’T?
 
 Where did we lose time?
 
@@ -28,28 +43,58 @@ Where did communication fail?
 
 What assumption was wrong?
 
-3. What should we change?
-
-What will we do differently next time?
-
-4. What should we keep?
-
-What worked that we should deliberately repeat?
+What did we underestimate?
 
 ⸻
 
-The objective
+03 — WHAT SHOULD CHANGE?
 
-The goal isn’t to find someone to blame.
+What will I do differently next time?
 
-The goal is to turn:
+Be specific.
+
+Not:
+
+“Prepare better.”
+
+But:
+
+“Identify the real decision-maker before the first meeting.”
+
+⸻
+
+04 — WHAT SHOULD STAY?
+
+What worked?
+
+What should become a habit?
+
+⸻
+
+THE POINT
+
+Without a postmortem:
+
+experience stays experience.
+
+With a postmortem:
 
 experience → analysis → learning → better preparation
 
-A team that never debriefs is forced to relearn the same lessons.
+The objective isn’t blame.
+
+It’s improvement.
 
 ⸻
 
-Memory hook
+CONNECTED IDEAS
+
+[[richelieu|Richelieu]]
+
+[[preparation|Preparation]]
+
+⸻
+
+REMEMBER
 
 No postmortem = experience wasted.

@@ -1,40 +1,55 @@
+
+
+
+
+⸻
+
+title: BATNA / RV / AV / ZOPA
+description: Know what happens if the deal fails.
+
 BATNA / RV / AV / ZOPA
 
 What happens if we don’t agree?
 
-This is one of the most important questions in negotiation.
+The most important number in a negotiation might be the number that never gets mentioned.
+
+The value of walking away.
 
 ⸻
 
 BATNA
 
-BATNA = Best Alternative To a Negotiated Agreement
+Best Alternative To a Negotiated Agreement
 
-It is my best realistic option if the negotiation fails.
+My best realistic option if the negotiation fails.
 
-It is my Plan B.
+My Plan B.
 
-The better my BATNA, the less dependent I am on reaching an agreement.
-
-⸻
-
-Reservation Value — RV
-
-My reservation value is my limit.
-
-Beyond this point, I would rather use my BATNA.
-
-It is my red line.
+The better my BATNA, the less dependent I am on reaching a deal.
 
 ⸻
 
-Aspiration Value — AV
+RV
 
-My aspiration value is what I would ideally like to obtain.
+Reservation Value
 
-It is ambitious.
+My limit.
 
-It is not necessarily realistic as a minimum.
+The point beyond which I prefer my BATNA.
+
+This is my red line.
+
+⸻
+
+AV
+
+Aspiration Value
+
+What I ideally want.
+
+Not my minimum.
+
+My ambition.
 
 ⸻
 
@@ -42,49 +57,55 @@ ZOPA
 
 Zone Of Possible Agreement
 
-The ZOPA exists when our acceptable ranges overlap.
+The zone where our acceptable ranges overlap.
 
-For example:
+Example
 
 My range:
 
-€10M → €14M
+€10M — €14M
 
 Their range:
 
-€12M → €16M
+€12M — €16M
 
-The overlap is:
+The ZOPA:
 
-€12M → €14M
-
-That’s the ZOPA.
+€12M — €14M
 
 ⸻
 
-But…
+BUT A ZOPA IS NOT A DEAL
 
-A ZOPA doesn’t guarantee a deal.
+Even when a mutually beneficial agreement exists, people can fail to reach it.
 
-People can fail to agree even when a mutually beneficial agreement exists.
+Why?
 
-They may:
-
-* misunderstand each other’s interests
-* distrust each other
-* fail to communicate
-* negotiate badly
-* have internal disagreements
-* become too attached to their positions
+* distrust
+* bad communication
+* ego
+* internal disagreement
+* poor preparation
+* bad process
 
 ⸻
 
-Memory hook
+CONNECTED IDEAS
+
+[[preparation|Preparation]]
+
+[[anchoring|Anchoring]]
+
+[[concessions|Concessions]]
+
+⸻
+
+REMEMBER
 
 BATNA = if no deal
 
 RV = my limit
 
-AV = my dream
+AV = my ambition
 
-ZOPA = where our acceptable zones overlap
+ZOPA = where we can both say yes

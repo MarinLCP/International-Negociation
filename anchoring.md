@@ -1,43 +1,76 @@
-Anchoring
 
-Who puts the first number on the table?
 
-The first serious number can influence the entire negotiation.
 
-This is the anchor.
-
-If I say:
-
-“€20 million.”
-
-The discussion may now happen around €20M.
-
-Even if the real value is €15M.
 
 ⸻
 
-Why it works
+title: Anchoring
+description: The first serious number can shape the entire conversation.
 
-The first number creates a reference point.
+ANCHORING
 
-The other side may adjust from that point rather than evaluating the problem from zero.
+Whoever puts the first number on the table may define the conversation.
+
+THE €20M EXAMPLE
+
+I say:
+
+€20 million.
+
+Suddenly, we’re no longer discussing the value from zero.
+
+We’re discussing whether €20M is too high or too low.
+
+The first number has created a reference point.
 
 ⸻
 
-But an anchor needs to be credible
+WHY IT WORKS
 
-An absurd number can backfire.
+The human mind tends to adjust from an initial reference point.
 
-The best anchor is:
+That is the anchor.
+
+⸻
+
+BUT…
+
+An anchor can be too extreme.
+
+If I say something completely absurd, I may lose credibility.
+
+A useful anchor should therefore be:
 
 ambitious + legitimate + justified
 
-I need to be able to explain where it comes from.
+I need to be able to explain where the number comes from.
 
 ⸻
 
-Memory hook
+THE MOVE
+
+Before the negotiation, I should know:
+
+* my target
+* my justification
+* my evidence
+* my limits
+* their likely expectations
+
+Then I can decide whether anchoring first makes sense.
+
+⸻
+
+CONNECTED IDEAS
+
+[[batna-zopa|BATNA / ZOPA]]
+
+[[preparation|Preparation]]
+
+[[concessions|Concessions]]
+
+⸻
+
+REMEMBER
 
 First number = gravitational pull.
-
-If I am prepared and have a strong justification, I may want to anchor first.

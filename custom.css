@@ -1,0 +1,89 @@
+:root {
+  --color-l-background: #f7f5f0;
+  --color-l-foreground: #292725;
+  --color-l-accent: #b54a32;
+
+  --color-d-background: #171615;
+  --color-d-foreground: #e8e4dc;
+  --color-d-accent: #d06a4d;
+
+  --font-heading: Georgia, "Times New Roman", serif;
+  --font-body: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+  --font-size-base: 1.08rem;
+  --line-height-normal: 1.7;
+
+  --radius: 0.25rem;
+}
+
+/* Navbar */
+
+.site-navbar {
+  border-bottom: 1px solid var(--color-foreground-100);
+}
+
+/* Main reading area */
+
+.prose {
+  max-width: 780px;
+}
+
+/* Headings */
+
+.prose h1 {
+  font-family: var(--font-heading);
+  font-size: 3.5rem;
+  line-height: 1.05;
+  letter-spacing: -0.04em;
+  margin-bottom: 1rem;
+}
+
+.prose h2 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  margin-top: 3rem;
+}
+
+.prose h3 {
+  font-family: var(--font-heading);
+}
+
+/* Quotes */
+
+.prose blockquote {
+  border-left-width: 3px;
+  font-family: var(--font-heading);
+  font-size: 1.35rem;
+  font-style: italic;
+  padding-left: 1.5rem;
+}
+
+/* Links */
+
+.prose a {
+  text-underline-offset: 4px;
+}
+
+/* Lists */
+
+.prose li {
+  margin-bottom: 0.4rem;
+}
+
+/* Strong text */
+
+.prose strong {
+  font-weight: 700;
+}
+
+/* Tables */
+
+.prose table {
+  border-radius: var(--radius);
+}
+
+/* Sidebar */
+
+.sidebar {
+  font-size: 0.9rem;
+}

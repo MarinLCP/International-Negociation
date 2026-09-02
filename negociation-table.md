@@ -1,69 +1,88 @@
-The Negotiation Table
 
-The table itself is not neutral
+
+
+
+⸻
+
+title: The Negotiation Table
+description: The physical table isn’t neutral.
+
+THE NEGOTIATION TABLE
+
+Even the chairs matter.
+
+THE ROOM IS PART OF THE NEGOTIATION
 
 Everyone has biases.
 
-Even something as simple as where people sit can affect how a negotiation feels.
+Even physical positioning can influence how a negotiation feels.
 
 Sitting directly opposite someone can create a subtle feeling of confrontation.
 
-A more comfortable or cooperative seating arrangement can make interaction easier.
+A more comfortable arrangement can make cooperation easier.
 
-This seems almost ridiculous.
+It sounds insignificant.
 
-But that is precisely the point.
+But that’s exactly the point.
 
-Negotiation is not happening between two perfectly rational computers.
-
-It is happening between people.
+Negotiation happens between people, not perfectly rational machines.
 
 ⸻
 
-The negotiator’s dilemma
+THE NEGOTIATOR’S DILEMMA
 
-I have to balance two things.
+I need to balance two things.
 
-Assertiveness
+ASSERTION
 
-I need to know what I want.
+I need to know:
 
-I need arguments.
+* what I want
+* what my limits are
+* what my arguments are
+* what I am willing to defend
 
-I need limits.
+COOPERATION
 
-I need to defend my interests.
+But I also need to remain someone the other side can work with.
 
-Cooperativeness
+I need:
 
-I also need to be someone the other side can work with.
+* listening
+* patience
+* attention
+* flexibility
 
-I need to listen.
+Too much aggression can destroy the relationship.
 
-I need patience.
-
-I need attention.
-
-If I am too aggressive, I may destroy the relationship.
-
-If I am too accommodating, I may give away too much.
+Too much accommodation can destroy the deal.
 
 ⸻
 
-The question
+THE QUESTION
 
-The interesting negotiator is therefore not:
+The goal isn’t simply:
 
 “How do I win?”
 
 It is:
 
-“How do I defend my interests while remaining someone they want to make a deal with?”
+How do I defend my interests while remaining someone they want to make a deal with?
 
 ⸻
 
-Memory hook
+CONNECTED IDEAS
 
-Same table. Different psychology.
+[[preparation|Preparation]]
 
-Before thinking about arguments, remember that the people sitting around the table are human.
+[[reactive-devaluation|Reactive Devaluation]]
+
+[[who-what-how|WHO / WHAT / HOW]]
+
+⸻
+
+REMEMBER
+
+The table isn’t neutral.
+
+The physical and psychological environment can influence the negotiation.

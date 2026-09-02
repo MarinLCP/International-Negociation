@@ -1,6 +1,15 @@
+
+
+
+
+⸻
+
+title: WHO / WHAT / HOW
+description: The three dimensions of a negotiation.
+
 WHO / WHAT / HOW
 
-Every negotiation can be looked at through three dimensions.
+Every negotiation has three dimensions.
 
 ⸻
 
@@ -38,7 +47,7 @@ What solutions are possible?
 
 What are my arguments?
 
-What is my BATNA?
+What is my [[batna-zopa|BATNA]]?
 
 ⸻
 
@@ -60,26 +69,36 @@ How will offers and concessions be communicated?
 
 ⸻
 
-Why this matters
+THE TRAP
 
 I naturally want to jump straight to:
 
-“What do I want?”
+WHAT do I want?
 
 But sometimes the most important question is:
 
-“Who am I actually negotiating with?”
+WHO am I actually negotiating with?
 
 And sometimes:
 
-“How are we going to negotiate?”
+HOW are we going to negotiate?
 
-can completely change the result.
+can completely change the outcome.
 
 ⸻
 
-Memory hook
+CONNECTED IDEAS
+
+[[preparation|Preparation]]
+
+[[cop21|COP21]]
+
+[[japon|Japan]]
+
+⸻
+
+REMEMBER
 
 WHO → WHAT → HOW
 
-People → Problem → Process
+People → Problem → Process.

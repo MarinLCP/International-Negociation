@@ -1,64 +1,75 @@
-Japan
 
-The missing folder
+
+
+
+⸻
+
+title: Japan
+description: When €12 million wasn’t really about €12 million.
+
+JAPAN
+
+€12 million vs. an apology.
+
+THE MISSING FOLDER
 
 A meeting with Japanese counterparts started badly.
 
-The reason?
-
 An important Japanese participant did not have the folder he was supposed to have.
 
-Something that might seem insignificant from the outside immediately affected the atmosphere.
+Something that could seem like a small logistical problem immediately affected the atmosphere.
 
-It reminded me that what looks like a small logistical detail to one side can have a completely different meaning to the other.
+The lesson:
+
+Small details can carry a lot of meaning.
 
 ⸻
 
-The €12 million problem
+THE €12M PROBLEM
 
-Another negotiation involved a French company and Japanese counterparts.
+In another negotiation, a French side was facing a potential liability of around €12 million because of a delay.
 
-The French side was facing a potential liability of around €12 million because of a delay.
-
-The Japanese side was prepared to waive the €12 million.
+The Japanese side was willing to waive the €12 million.
 
 But they wanted something in return.
 
-Not necessarily money.
+An official apology from the French president, on behalf of France.
 
-They wanted an official apology from the French president, on behalf of France.
-
-At first, this seemed disproportionate.
+At first, this seems strange.
 
 Why would an apology be worth €12 million?
 
-Because the two sides were not valuing the same thing.
+Because the two sides were not negotiating the same thing.
 
 ⸻
 
-What was actually being negotiated?
+WHAT THEY REALLY WANTED
 
-The French side was thinking:
+The French side saw:
 
-“€12 million.”
+€12M
 
-The Japanese side was thinking:
+The Japanese side saw:
 
-“Our reputation.”
+REPUTATION
 
-The Japanese had a strong reputation for being punctual.
+The delay threatened their reputation for punctuality.
 
-The delay threatened that reputation.
+The apology had symbolic value.
 
-The apology had symbolic value because it publicly acknowledged responsibility and protected the relationship and reputation.
+It acknowledged responsibility and helped protect the relationship and reputation.
 
 ⸻
 
-The lesson
+THE CONCEPT
 
-A negotiation is rarely only about the thing written on the contract.
+Never assume that the thing someone asks for is the thing they value most.
 
-There can be:
+Ask:
+
+Why do they want this?
+
+Behind a position there can be:
 
 * money
 * reputation
@@ -69,18 +80,18 @@ There can be:
 * precedent
 * face
 
-The important question is therefore not only:
+⸻
 
-“What do they want?”
+CONNECTED IDEAS
 
-but:
+[[who-what-how|WHO / WHAT / HOW]]
 
-“Why do they want it?”
+[[reactive-devaluation|Reactive Devaluation]]
+
+[[preparation|Preparation]]
 
 ⸻
 
-Memory hook
+REMEMBER
 
-€12 million vs. an apology.
-
-If the other side accepts giving up €12 million, there is probably something else they value enormously.
+If someone gives up €12M, find out what they are getting instead.

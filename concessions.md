@@ -1,58 +1,69 @@
-Concessions
 
-Never give something away for free
+
+
+
+⸻
+
+title: Concessions
+description: Never give something away for free.
+
+CONCESSIONS
+
+If I move, I want them to move too.
+
+THE BASIC RULE
 
 A concession changes the balance of the negotiation.
 
-If I give something, I should understand:
+When I give something, I should ask:
 
-What does it cost me?
+What does this cost me?
+
+and:
 
 What is it worth to them?
 
-These two things are not necessarily equal.
+Those two values can be completely different.
 
 ⸻
 
-The rules
-
-Reciprocity
+RECIPROCITY
 
 If I concede, I expect movement from them.
 
-Decreasing concessions
+Not necessarily the same thing.
 
-My concessions should generally become smaller.
-
-Large → medium → small.
-
-This signals that I am approaching my limit.
-
-Explicitness
-
-Don’t let an important concession disappear unnoticed.
-
-Make it clear that I have moved.
-
-Framing
-
-The same concession can be presented differently.
-
-“I can reduce the price by €50,000.”
-
-is different psychologically from:
-
-“I’ve made an exceptional €50,000 adjustment to help close this.”
+But something.
 
 ⸻
 
-Multiple variables
+DECREASING CONCESSIONS
 
-Don’t negotiate only one variable.
+A useful pattern:
 
-Price is only one variable.
+BIG → MEDIUM → SMALL
 
-I can negotiate:
+My concessions should generally become smaller.
+
+This signals that I am approaching my limit.
+
+⸻
+
+MAKE IT VISIBLE
+
+Don’t let an important concession disappear.
+
+If I move by €50,000, they should understand that I moved.
+
+Otherwise I may give something valuable without receiving recognition for it.
+
+⸻
+
+NEGOTIATE MULTIPLE VARIABLES
+
+Don’t make the negotiation only about price.
+
+Possible variables:
 
 * price
 * timing
@@ -65,14 +76,24 @@ I can negotiate:
 * location
 * review clauses
 
-This creates room for trades.
+The more variables, the more possible trades.
 
 ⸻
 
-Memory hook
+CONNECTED IDEAS
+
+[[anchoring|Anchoring]]
+
+[[batna-zopa|BATNA / ZOPA]]
+
+[[hardball-tactics|Hardball Tactics]]
+
+⸻
+
+REMEMBER
 
 Concession = movement in exchange for movement.
 
-If I move and they don’t, I’m not negotiating. I’m giving.
+If I move and they don’t, I’m not negotiating.
 
----
+I’m giving.

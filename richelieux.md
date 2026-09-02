@@ -1,59 +1,96 @@
-Richelieu
 
-The negotiation doesn’t end when everyone leaves
+
+
+
+⸻
+
+title: Richelieu
+description: The negotiation doesn’t end when everyone leaves the room.
+
+RICHELIEU
+
+The negotiation after the negotiation.
+
+THE STORY
 
 Cardinal Richelieu reportedly devoted a substantial part of his Political Testament to questions of government and negotiation.
 
-The interesting part for me isn’t the historical detail.
+The interesting part isn’t really the historical detail.
 
-It’s the habit behind it:
+It’s the habit.
 
 Look back.
 
-After an important negotiation, I should not simply ask:
+⸻
 
-“Did we win?”
+AFTER THE MEETING
 
-I should ask:
+Once a negotiation is finished, the temptation is to move on.
 
-“What actually happened?”
+Deal signed.
+
+Meeting over.
+
+Next problem.
+
+But that’s where an important part of learning can disappear.
 
 ⸻
 
-The postmortem
+THE POSTMORTEM
 
-A negotiation should have a debrief.
+After an important negotiation, ask:
 
-Not to find someone to blame.
+What helped?
 
-To understand what happened.
+What created movement?
 
-Four questions
+What strengthened the relationship?
 
-What helped, and why?
+What arguments worked?
 
-What didn’t help, and why?
+What didn’t?
 
-What should we do differently next time?
+Where did we lose time?
 
-What should we keep doing?
+Where did communication fail?
+
+What assumption was wrong?
+
+What should change?
+
+What will we do differently next time?
+
+What should stay?
+
+What worked well enough to deliberately repeat?
 
 ⸻
 
-Why bother?
+WHY?
 
-Because otherwise experience disappears.
+Without a postmortem:
 
-I can negotiate ten times and still make the same mistake ten times.
+experience stays experience.
 
-The postmortem turns an experience into knowledge.
+With a postmortem:
+
+experience → analysis → learning
+
+The objective isn’t to find someone to blame.
+
+It’s to become better at the next negotiation.
 
 ⸻
 
-Memory hook
+CONNECTED IDEAS
 
-Richelieu = negotiate → leave the room → dissect what happened.
+[[preparation|Preparation]]
 
-The negotiation is not finished when the agreement is signed.
+[[negotiation-table|The Negotiation Table]]
 
-The learning starts afterwards.
+⸻
+
+REMEMBER
+
+Don’t just remember the result. Reconstruct the process.
